@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧾 Sistema de Cadastro (CRUD em Python)
 
 Projeto de um sistema de cadastro de usuários desenvolvido em Python, utilizando JSON como forma de armazenamento de dados.
@@ -117,3 +118,6 @@ Iuri Arthur
 ## 📌 Observação
 
 Projeto desenvolvido para fins de estudo e prática. 🚀
+=======
+# Sistema-de-Cadastro2
+>>>>>>> 18ea62cd095cb43037828b60e82b9ac73d75f6b2
