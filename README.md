@@ -116,5 +116,3 @@ Iuri Arthur
 
 Projeto desenvolvido para fins de estudo e prática. 🚀
 =======
-# Sistema-de-Cadastro2
->>>>>>> 18ea62cd095cb43037828b60e82b9ac73d75f6b2
