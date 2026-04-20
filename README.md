@@ -9,8 +9,8 @@ Projeto de um sistema de cadastro de usuários desenvolvido em Python, utilizand
 
 * ➕ Adicionar usuário
 * 📋 Listar usuários 
-* ✏️ Editar usuário *(em desenvolvimento)*
-* 🗑️ Deletar usuário *(em desenvolvimento)*
+* ✏️ Editar usuário 
+* 🗑️ Deletar usuário 
 
 ---
 
