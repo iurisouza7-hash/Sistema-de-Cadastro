@@ -1,10 +1,162 @@
 [
     {
-        "nome": "iuri",
+        "nome": "Guilherme Santos",
+        "idade": 29,
+        "email": "gui.santos@email.com",
+        "telefone": "(11)2423678032462374",
+        "cidade": "São Paulo",
+        "senha": "senha123"
+    },
+    {
+        "nome": "Fernanda Lima",
+        "idade": 34,
+        "email": "fer.lima@provedor.net",
+        "telefone": "(21)9923847561029384",
+        "cidade": "Rio de Janeiro",
+        "senha": "safe_pass"
+    },
+    {
+        "nome": "Ricardo Alves",
+        "idade": 42,
+        "email": "ric.alves@servico.com",
+        "telefone": "(31)8827364510928374",
+        "cidade": "Belo Horizonte",
+        "senha": "admin_31"
+    },
+    {
+        "nome": "Letícia Souza",
+        "idade": 21,
+        "email": "le.souza@estudante.com",
+        "telefone": "(41)1029384756123456",
+        "cidade": "Curitiba",
+        "senha": "root_pass"
+    },
+    {
+        "nome": "Marcelo Vieira",
+        "idade": 37,
+        "email": "marcelo.v@tecnologia.io",
+        "telefone": "(51)7766554433221100",
+        "cidade": "Porto Alegre",
+        "senha": "marcelo_99"
+    },
+    {
+        "nome": "Camila Rocha",
+        "idade": 26,
+        "email": "cami.rocha@webmail.com",
+        "telefone": "(61)4523891027364519",
+        "cidade": "Brasília",
+        "senha": "cami_2024"
+    },
+    {
+        "nome": "Bruno Mendes",
+        "idade": 31,
+        "email": "bruno.m@global.net",
+        "telefone": "(71)9827346105928374",
+        "cidade": "Salvador",
+        "senha": "bahia_vibe"
+    },
+    {
+        "nome": "Amanda Costa",
+        "idade": 28,
+        "email": "amanda.c@empresa.com.br",
+        "telefone": "(81)3344556677889900",
+        "cidade": "Recife",
+        "senha": "rec_pass"
+    },
+    {
+        "nome": "Thiago Martins",
+        "idade": 33,
+        "email": "thiago.m@servico.net",
+        "telefone": "(85)1029384756123456",
+        "cidade": "Fortaleza",
+        "senha": "fort_85_ok"
+    },
+    {
+        "nome": "Sofia Oliveira",
+        "idade": 25,
+        "email": "sofia.o@email.io",
+        "telefone": "(92)8877665544332211",
+        "cidade": "Manaus",
+        "senha": "sofia_manaus"
+    },
+    {
+        "nome": "Gabriel Barbosa",
+        "idade": 40,
+        "email": "gabriel.b@outlook.com",
+        "telefone": "(19)2233445566778899",
+        "cidade": "Campinas",
+        "senha": "camp_2026"
+    },
+    {
+        "nome": "Larissa Silva",
+        "idade": 22,
+        "email": "lari.silva@fastmail.com",
+        "telefone": "(27)1122334455667788",
+        "cidade": "Vitória",
+        "senha": "vix_secure"
+    },
+    {
+        "nome": "Paulo Roberto",
+        "idade": 55,
+        "email": "paulo.r@bol.com.br",
+        "telefone": "(62)9988776655443322",
+        "cidade": "Goiânia",
+        "senha": "paulo_beto"
+    },
+    {
+        "nome": "Vanessa Dias",
+        "idade": 30,
+        "email": "van.dias@design.art",
+        "telefone": "(48)5544332211009988",
+        "cidade": "Florianópolis",
+        "senha": "design_pass"
+    },
+    {
+        "nome": "Igor Nascimento",
+        "idade": 27,
+        "email": "igor.n@universidade.edu",
+        "telefone": "(84)7766889900112233",
+        "cidade": "Natal",
+        "senha": "natal_2024"
+    },
+    {
+        "nome": "Beatriz Farias",
         "idade": 32,
-        "email": "oi",
-        "telefone": "334832832-23",
-        "cidade": "fhsdflhsd",
-        "senha": "1234"
+        "email": "bia.farias@portal.com",
+        "telefone": "(91)6655443322110099",
+        "cidade": "Belém",
+        "senha": "bia_belem"
+    },
+    {
+        "nome": "Renato Garcia",
+        "idade": 39,
+        "email": "renato.g@tech.io",
+        "telefone": "(67)4433221100998877",
+        "cidade": "Campo Grande",
+        "senha": "renato_ms"
+    },
+    {
+        "nome": "Tatiana Lopes",
+        "idade": 35,
+        "email": "tati.lopes@email.com",
+        "telefone": "(83)3322110099887766",
+        "cidade": "João Pessoa",
+        "senha": "tati_jp"
+    },
+    {
+        "nome": "André Luiz",
+        "idade": 44,
+        "email": "andre.l@servico.com.br",
+        "telefone": "(98)2211009988776655",
+        "cidade": "São Luís",
+        "senha": "slz_2024"
+    },
+    {
+        "nome": "Mônica Guedes",
+        "idade": 24,
+        "email": "monica.g@global.net",
+        "telefone": "(79)1100998877665544",
+        "cidade": "Aracaju",
+        "senha": "aju_pass"
     }
 ]
