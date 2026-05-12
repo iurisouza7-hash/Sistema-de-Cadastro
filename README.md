@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🧾 Sistema de Cadastro (CRUD em Python)
 
 Projeto de um sistema de cadastro de usuários desenvolvido em Python, utilizando JSON como forma de armazenamento de dados.
